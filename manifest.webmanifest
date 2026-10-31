@@ -1,8 +1,9 @@
 {
+  "id": "./?pocket=2",
   "name": "Pocket",
   "short_name": "Pocket",
   "description": "Track where your monthly pocket money goes.",
-  "start_url": "./",
+  "start_url": "./?pocket=2",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
